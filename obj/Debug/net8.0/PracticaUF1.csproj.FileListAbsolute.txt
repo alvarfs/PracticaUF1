@@ -1,0 +1,15 @@
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Debug\net8.0\PracticaUF1.exe
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Debug\net8.0\PracticaUF1.deps.json
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Debug\net8.0\PracticaUF1.runtimeconfig.json
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Debug\net8.0\PracticaUF1.dll
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Debug\net8.0\PracticaUF1.pdb
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.AssemblyInfoInputs.cache
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.AssemblyInfo.cs
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.csproj.CoreCompileInputs.cache
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.sourcelink.json
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.dll
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\refint\PracticaUF1.dll
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.pdb
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\PracticaUF1.genruntimeconfig.cache
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\obj\Debug\net8.0\ref\PracticaUF1.dll
