@@ -1,0 +1,5 @@
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.exe
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.dll
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.deps.json
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.runtimeconfig.json
+D:\Users\alumno\Desktop\DAW\ENTORN_DESENVOLUPAMENT\GITHUB\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.pdb
