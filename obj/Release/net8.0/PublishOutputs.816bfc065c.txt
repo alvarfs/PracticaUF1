@@ -1,0 +1,5 @@
+C:\Users\alvar\OneDrive\Escritorio\GitHub\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.exe
+C:\Users\alvar\OneDrive\Escritorio\GitHub\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.dll
+C:\Users\alvar\OneDrive\Escritorio\GitHub\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.deps.json
+C:\Users\alvar\OneDrive\Escritorio\GitHub\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\GitHub\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.pdb

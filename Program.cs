@@ -18,6 +18,6 @@
         }
 
         Console.WriteLine("PULSA ENTER PARA FINALIZAR...");
-        Convert.ToInt32(System.Console.ReadLine());
+        System.Console.ReadLine();
     }
 }
